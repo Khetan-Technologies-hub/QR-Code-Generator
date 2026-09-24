@@ -1,0 +1,17 @@
+# Android
+App/.gradle/
+App/build/
+App/app/build/
+App/.idea/
+*.iml
+
+# Website
+Website/node_modules/
+Website/dist/
+Website/build/
+Website/.env
+Website/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
